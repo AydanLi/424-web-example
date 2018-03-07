@@ -1,0 +1,67 @@
+[33mcommit 3991c2163e5aabe311cb2c754a30e37a5dbf51b7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Xingxian Li <xingxli423@gmail.com>
+Date:   Tue Mar 6 02:51:57 2018 -0500
+
+    moving section3new back to its directory
+
+[33mcommit 35b0571e1e2b64d08576918073de25c301533776[m
+Author: Xingxian Li <xingxli423@gmail.com>
+Date:   Tue Mar 6 02:45:12 2018 -0500
+
+    renamed All names
+
+[33mcommit c5a2292d19fae4aab88606d07e22811a541ab76b[m
+Author: Xingxian Li <xingxli423@gmail.com>
+Date:   Tue Mar 6 02:44:26 2018 -0500
+
+    renamed All names
+
+[33mcommit d890f62dcf13d25360ae8d1c9f123ef92bc508f1[m
+Author: Xingxian Li <xingxli423@gmail.com>
+Date:   Tue Mar 6 02:36:41 2018 -0500
+
+    renamed Section3.html
+
+[33mcommit c0777f8c3e3342f894a5972651fb83f281187603[m
+Author: Xingxian Li <xingxli423@gmail.com>
+Date:   Tue Mar 6 02:28:19 2018 -0500
+
+    :wq
+
+[33mcommit 42fc67e6ce393c6177c09a2b8e3ed8891a488b7c[m
+Author: Xingxian Li <xingxli423@gmail.com>
+Date:   Tue Mar 6 01:23:25 2018 -0500
+
+    adding second paragraph to Section1.html
+
+[33mcommit a4bc6e44ccb64a497c0131dcb5e42936a7c394f4[m
+Author: Xingxian Li <xingxli423@gmail.com>
+Date:   Tue Mar 6 01:20:24 2018 -0500
+
+    creating Section1.html
+
+[33mcommit b44ca8f71d2cedf9db8ddee63a5c48102e1d73c9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Xingxian Li <xingxli423@gmail.com>
+Date:   Tue Mar 6 01:04:12 2018 -0500
+
+    adding main index file for the site
+
+[33mcommit a109f2d510029c7d618b417f15130f4c7dbacf7a[m
+Author: Dominic Thomas <dominict@users.noreply.github.com>
+Date:   Wed Apr 26 21:34:24 2017 -0400
+
+    Initial Pages commit
+    
+    Getting started with Github pages.
+
+[33mcommit 8e68329cc1708aef8f0fd162111ba4b8b16a1830[m
+Author: Dominic Thomas <dominict@users.noreply.github.com>
+Date:   Wed Apr 26 21:33:44 2017 -0400
+
+    Set theme jekyll-theme-leap-day
+
+[33mcommit 08ecc221cf262d7c8c2d2b67714d1a61fe0dfe18[m
+Author: Dominic Thomas <dominict@users.noreply.github.com>
+Date:   Fri Jan 22 15:44:53 2016 -0500
+
+    Initial commit
